@@ -17,7 +17,14 @@ The project is an implementation of an end_to_end ETL System and Data warehouse
 # ETL USing SQL
 [THere are 8 Steps to load data in data Warehouse USing SQL](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/ETL%20Using%20Sql.sql)
 # ETL USing SSIS
-[Steps Of Loading data into Warehouse Using SSIS](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSIS%20HappyScoopers.rar)
-[This is the final Result]
+- [Steps Of Loading data into Warehouse Using SSIS](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSIS%20HappyScoopers.rar)
+- [This is the final Result]
 ![image](https://user-images.githubusercontent.com/93515671/194307802-6d4fdc34-f3ee-4541-9031-f0a203ed8c54.png)
+# Create Multi Dimensional Model in SSAS
+- [Steps](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSAS%20HappyScoopers.rar)
+- [The Cube in SSAS]
+- ![image](https://user-images.githubusercontent.com/93515671/194308635-a8527550-c51a-4fe9-97c7-678d374d1a54.png)
+- [Exporting data in Execl]
+- ![image](https://user-images.githubusercontent.com/93515671/194308963-8b9c1332-684d-4ded-912f-ffb8969520ae.png)
+
 
