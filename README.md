@@ -23,10 +23,10 @@ The project is an implementation of an end_to_end ETL System and Data warehouse
 # Create Multi Dimensional Model in SSAS
 - [Analyze data from SSAS database](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSAS%20HappyScoopers.rar)
 
-## The Cube in SSAS
+### The Cube in SSAS
 - ![image](https://user-images.githubusercontent.com/93515671/194308635-a8527550-c51a-4fe9-97c7-678d374d1a54.png)
 
-## End Users shouldn't connect to the Sql Server or to the analysis server for accessing data so we should use Excel
+### End Users shouldn't connect to the Sql Server or to the analysis server for accessing data so we should use Excel
 ![image](https://user-images.githubusercontent.com/93515671/194308963-8b9c1332-684d-4ded-912f-ffb8969520ae.png)
 # Create Ineractive Reports in Power bi
 - [Ineract with dashboard](https://app.powerbi.com/groups/me/reports/41c819a2-6872-4a3e-ad76-0431981105c2/ReportSection20e615b88d7b820860c3)
