@@ -12,3 +12,5 @@ The project is an implementation of an end_to_end ETL System and Data warehouse
 - [Create Staging tables](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Create%20Staging%20Tables.sql)
 - [Create Stored Procedure for loading the staging table](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Create%20%20Load%20_Staging%20Procedures.sql)
 - [Create Stored Procedure for loading the Fact / dim table ](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Create%20Procedures%20for%20Fact%20%26%20Dimension%20Tables.sql)
+- [Create Lineage table and Incremnetal load table](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Lineage%20%26%20Incremental%20tables.sql)
+# ETL USing SQL
