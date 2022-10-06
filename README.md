@@ -25,9 +25,9 @@ The project is an implementation of an end_to_end ETL System and Data warehouse
 - [The Cube in SSAS]
 - ![image](https://user-images.githubusercontent.com/93515671/194308635-a8527550-c51a-4fe9-97c7-678d374d1a54.png)
 - [Exporting data in Execl]
-- ![image](https://user-images.githubusercontent.com/93515671/194308963-8b9c1332-684d-4ded-912f-ffb8969520ae.png)
+![image](https://user-images.githubusercontent.com/93515671/194308963-8b9c1332-684d-4ded-912f-ffb8969520ae.png)
 # Create Ineractive Reports in Power bi
-- [Ineract With dashboard](https://app.powerbi.com/groups/me/reports/41c819a2-6872-4a3e-ad76-0431981105c2/ReportSection20e615b88d7b820860c3)
+- [Ineract with dashboard](https://app.powerbi.com/groups/me/reports/41c819a2-6872-4a3e-ad76-0431981105c2/ReportSection20e615b88d7b820860c3)
 ![image](https://user-images.githubusercontent.com/93515671/194309499-49eab3aa-4e21-4604-ac27-456c185d529c.png)
 
 
