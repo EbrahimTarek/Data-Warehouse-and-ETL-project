@@ -14,16 +14,18 @@ The project is an implementation of an end_to_end ETL System and Data warehouse
 - [Create Stored Procedure for loading the Fact / dim table ](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Create%20Procedures%20for%20Fact%20%26%20Dimension%20Tables.sql)
 - [Create Lineage table and Incremnetal load table](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Lineage%20%26%20Incremental%20tables.sql)
 - [Create SPs for updating the log tables](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/Sps%20for%20updating%20the%20log%20tables.sql)
-# ETL uSing SQL
+# ETL using SQL
 [THere are 8 Steps to load data in data Warehouse USing SQL](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/ETL%20Using%20Sql.sql)
-# ETL uSing SSIS
+# ETL using SSIS
 - [Steps Of Loading data into Warehouse Using SSIS](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSIS%20HappyScoopers.rar)
 - [This is the final Result]
 ![image](https://user-images.githubusercontent.com/93515671/194307802-6d4fdc34-f3ee-4541-9031-f0a203ed8c54.png)
 # Create Multi Dimensional Model in SSAS
 - [Analyze data from SSAS database](https://github.com/EbrahimTarek/Data-Warehouse-and-ETL-project/blob/main/SSAS%20HappyScoopers.rar)
+
 - [The Cube in SSAS]
 - ![image](https://user-images.githubusercontent.com/93515671/194308635-a8527550-c51a-4fe9-97c7-678d374d1a54.png)
+
 - [End Users shouldn't connect to the Sql Server or to the analysis server for accessing data so we should use Excel]
 ![image](https://user-images.githubusercontent.com/93515671/194308963-8b9c1332-684d-4ded-912f-ffb8969520ae.png)
 # Create Ineractive Reports in Power bi
