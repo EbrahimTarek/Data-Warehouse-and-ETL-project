@@ -4,7 +4,7 @@ Create table IncrementalLoads(
 	LoadDate datetime not null
 	) on [Primary]
 
-	Create table Lineage(
+Create table Lineage(
 	LineageKey int identity(1,1) primary key not null,
 	TableName nvarchar(100),
 	[StartLoad] [datetime] NOT NULL,
